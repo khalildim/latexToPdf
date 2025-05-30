@@ -60,4 +60,11 @@ source .venv/bin/activate
 # run the app
 python env_setup.py
 python main.py
+```
+---
+## ☕ Support
+
+If you find this tool helpful, consider supporting me:
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/khalil_dim)
 
