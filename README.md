@@ -16,7 +16,7 @@
 
 ## 🖥️ Screenshots
 
-*C:\Users\khali\Pictures\Screenshots\Capture d'écran 2025-05-30 091901.png*
+**
 
 ---
 
