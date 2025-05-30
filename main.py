@@ -11,7 +11,6 @@ class Interface:
         self.main_frame = ctk.CTk()
         self.converter = LaTeXConverter()
         self.main_frame.title("Latex to PDF converter")
-        self.main_frame.iconbitmap("assets/app_icon.ico")
         self.main_frame.geometry("1200x600")
         self.main_frame.minsize(1200, 600)
         self.main_frame.configure(fg_color="#2f333d")
