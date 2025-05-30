@@ -7,7 +7,7 @@
 ## 📦 Downloads 
 
 **Windows**: [Download Latest Release](https://github.com/yourusername/latexToPdf/releases/latest)
-**Linux**: [Download Latest `.deb`]([[https://github.com/yourusername/latexToPdf/releases/latest])
+**Linux**: [Download Latest `.deb`](https://github.com/yourusername/latexToPdf/releases/latest)
 
 After download:
 ```bash
