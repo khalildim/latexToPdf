@@ -16,7 +16,7 @@
 
 ## 🖥️ Screenshots
 
-**
+![LatexToPdf Screenshot](screenshots/preview.png)
 
 ---
 
