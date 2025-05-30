@@ -3,6 +3,11 @@
 **LatexToPdf** is a simple, cross-platform Python desktop application to convert LaTeX code into PDF with live preview, built using [`customtkinter`](https://github.com/TomSchimansky/CustomTkinter).
 
 ---
+## 📦 Downloads
+
+**Windows**: [Download Latest Release](https://github.com/yourusername/latexToPdf/releases/latest)
+
+
 
 ## ✨ Features
 
