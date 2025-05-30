@@ -14,7 +14,7 @@ After download:
 sudo dpkg -i latexToPdf_1.0.deb
 
 ---
-
+```
 ## ✨ Features
 
 - Compile LaTeX code to PDF on the fly
