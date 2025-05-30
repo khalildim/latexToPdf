@@ -44,6 +44,7 @@ python -m venv .venv
 .venv\Scripts\activate
 # On Linux/macOS:
 source .venv/bin/activate
+# run the app
 python env_setup.py
 python main.py
 
